@@ -9,11 +9,17 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)&nbsp;![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/VSIUAL_STUDIO_CODE-5C2D91?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 ### 📫 Contact & Blog 📫
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eunhasublooming@gmail.com)](mailto:eunhasublooming@gmail.com)&nbsp;<a href="https://velog.io/@eunhasublooming">[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=mailto:velog.io/@eunhasublooming)](mailto:velog.io/@eunhasublooming)</a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eunhasublooming@gmail.com)](mailto:eunhasublooming@gmail.com)&nbsp;[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=mailto:velog.io/@eunhasublooming)](mailto:velog.io/@eunhasublooming)
   
+  <a href="https://velog.io/@eunhasublooming">
+    <img 
+        src="http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&link=https://velog.io/@eunhasublooming"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
 <hr/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhasublue&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhasublue&layout=compact&theme=radical)](https://github.com/eunhasublue/github-readme-stats)
 
+  
 
 </div>
