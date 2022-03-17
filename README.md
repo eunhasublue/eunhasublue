@@ -13,7 +13,7 @@
   
   <a href="https://velog.io/@eunhasublooming">
     <img 
-        src="http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&link=https://velog.io/@eunhasublooming"
+        src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunhasublooming"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 <hr/>
