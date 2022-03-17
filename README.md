@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eunhasublue&fontSize=90)
 
 💪 Front-End 💪
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=firebase&logoColor=white"/>
 
 
 Introduce
