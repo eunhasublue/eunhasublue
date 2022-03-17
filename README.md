@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=pink&height=200&section=footer&text=Eunhasublue%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eunhasublue&fontSize=90)
 
 Introduce
 - 👋 Hi, I’m @eunhasublue
