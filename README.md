@@ -12,7 +12,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eunhasublooming@gmail.com)](mailto:eunhasublooming@gmail.com)&nbsp;[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=mailto:https://velog.io/@eunhasublooming)](mailto:https://velog.io/@eunhasublooming)
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhasublue&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhasublue&layout=compact&theme=radical)](https://github.com/eunhasublue/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhasublue&show_icons=true&theme=radical)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhasublue&layout=compact&theme=radical)](https://github.com/eunhasublue/github-readme-stats)
 
 
 </div>
