@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eunhasublue&fontSize=90)
 
 <div align="center">
+  
 ### 🧑🏻 Introduce
 - 👋 Hi, I’m @eunhasublue
 - 👀 I’m interested in front-end skills 
@@ -14,4 +15,5 @@
 
 ### 📫 Contact & Blog
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eunhasublooming@gmail.com)](mailto:eunhasublooming@gmail.com)&nbsp;[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=mailto:https://velog.io/@eunhasublooming)](mailto:https://velog.io/@eunhasublooming)
+  
 </div>
