@@ -7,8 +7,8 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhasublue&layout=compact&theme=radical)](https://github.com/eunhasublue/github-readme-stats)
 
-### ☁️ Deploy
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
+### ☁️ Database & Deploy 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)&nbsp;![SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)&nbsp;![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/VSIUAL_STUDIO_CODE-5C2D91?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
